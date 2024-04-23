@@ -14,12 +14,14 @@ function Card({ advice, adviceId, onClick }) {
         </h1>
 
         <img src={pattern1} alt="pattern Divider" className="pb-3" />
-      </div>
-      <div
-        className="bg-neon-green absolute p-2 rounded-full bottom-[11rem] hover:shadow-neon-green"
+
+        <div
+        className="bg-neon-green p-2 rounded-full hover:shadow-neon-green -mb-14"
         onClick={onClick}>
         <img src={icon} alt="icon dice" />
       </div>
+      </div>
+      
       {/* min-w-full sm:w-2/6 h-2/5 sm:min-w-full rounded-xl p-10 shadow-md flex flex-col justify-center items-center  */}
     </div>
   );

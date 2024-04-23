@@ -15,6 +15,12 @@ export default {
     fontFamily: {
       manrope: ["Manrope", "sans-serif"],
     },
+    screens: {
+      sm: "375px", // Mobile width
+      md: "768px",
+      lg: "1024px",
+      xl: "1440px", // Desktop width
+    },
     extend: {
       width: {
         90: "90%",
