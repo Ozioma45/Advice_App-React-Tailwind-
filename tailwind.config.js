@@ -9,6 +9,9 @@ export default {
       "neon-green": "hsl(150, 100%, 66%)",
       "light-cyan": "hsl(193, 38%, 86%)",
     },
+    fontFamily: {
+      manrope: ["Manrope", "sans-serif"],
+    },
     extend: {
       width: {
         90: "90%",
