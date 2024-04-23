@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ozioma45/Advice_App-React-Tailwind-)
-- Live Site URL: [Add live site URL here](https://advice-app-react-tailwind.vercel.app/)
+- Solution URL: [solution URL](https://github.com/Ozioma45/Advice_App-React-Tailwind-)
+- Live Site URL: [live site URL](https://advice-app-react-tailwind.vercel.app/)
 
 ## My process
 
