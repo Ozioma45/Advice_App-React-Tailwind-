@@ -16,7 +16,7 @@ function Card({ advice, adviceId, onClick }) {
         <img src={pattern1} alt="pattern Divider" className="pb-3" />
 
         <div
-        className="bg-neon-green p-2 rounded-full hover:shadow-neon-green -mb-14"
+        className="bg-neon-green p-4 rounded-full hover:shadow-neon-green -mb-14"
         onClick={onClick}>
         <img src={icon} alt="icon dice" />
       </div>
