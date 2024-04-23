@@ -34,7 +34,7 @@ function App() {
   }, []);
 
   return (
-    <div className="app bg-dark-blue w-full h-screen flex justify-center items-center flex-col">
+    <div className="app bg-dark-blue w-full h-screen flex justify-center items-center flex-col px-5">
       <Card advice={advice} adviceId={adviceId} onClick={reloadPage} />
     </div>
   );

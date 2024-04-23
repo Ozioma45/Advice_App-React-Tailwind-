@@ -9,6 +9,9 @@ export default {
       "neon-green": "hsl(150, 100%, 66%)",
       "light-cyan": "hsl(193, 38%, 86%)",
     },
+    boxShadow: {
+      "neon-green": "2px 3px 25px hsl(150, 100%, 66%)", // Adjust the shadow as needed
+    },
     fontFamily: {
       manrope: ["Manrope", "sans-serif"],
     },
